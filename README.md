@@ -1,4 +1,4 @@
-# Bachat-Paaila#  BachatPaaila
+#  BachatPaaila
 
 **BachatPaaila** is a full-stack MERN application designed to help users manage their personal finances. Users can track income, log expenses, set monthly budgets, categorize spending, and get insightful financial summaries.
 
@@ -14,7 +14,6 @@ Whether you're trying to cut down daily spending or save up for long-term goals,
 - 📊 **Dashboard & Charts** – Visual summaries of your cash flow.
 - 🎯 **Budget Tracking** – Set monthly limits and track your spending progress.
 - 🔔 **Smart Notifications** – Alerts when you're nearing your budget.
-//- //⚙️ //*Admin Panel** – //(Optional) Manage users and app-wide data.
 
 ---
 
@@ -43,9 +42,7 @@ Whether you're trying to cut down daily spending or save up for long-term goals,
 - [ ] Display bar and pie charts for visual data (category-wise breakdown)
 - [ ] Allow users to set monthly budget limits per category
 - [ ] Implement filters for date ranges and categories
-//- //[ ] Add pagination to transaction list
 - [ ] Build a profile/settings page (currency, etc.)
-//- //[ ] Enable CSV export of transaction history
 
 ---
 
@@ -58,10 +55,6 @@ Whether you're trying to cut down daily spending or save up for long-term goals,
 - [ ] Add recurring transaction support (e.g. monthly bills, salary)
 - [ ] List upcoming recurring transactions
 - [ ] Support multiple currencies and auto-convert using FX APIs
-//- //[ ]Allow generation of monthly reports in PDF format
-//- //[ ]Add advanced export filters for CSV
-//- //[ ]Make the app fully mobile responsive
-//- //[ ]Optionally support offline mode with PWA features (service workers)
 
 ---
 
